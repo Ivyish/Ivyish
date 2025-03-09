@@ -1,4 +1,4 @@
 
 - 🔭 I’m currently working on Ivy.Land
-- 🌱 I’m currently learning Java and Pentesting
+- 🌱 I’m currently learning Java, Python and Pentesting
 
